@@ -1,7 +1,7 @@
 <?php
-$host = "localhost";
-$dbname = "react_mysql_db";
-$username = "root";
+$host = "";
+$dbname = "";
+$username = "";
 $password = "";
 
 try {
